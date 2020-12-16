@@ -1,3 +1,3 @@
 # Omnifood 
 
-- A complete responsive food ordering website project. (Jonas - Lecturer)
+- A complete responsive food ordering website project. (lecturer: Jonas)
