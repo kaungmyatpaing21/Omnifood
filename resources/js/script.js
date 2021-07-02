@@ -123,8 +123,3 @@ $(document).ready(function () {
     }
   });
 });
-
-const x = 23;
-const calcAge = x => 2037 - x;
-
-console.log();
